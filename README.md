@@ -1,16 +1,35 @@
-### Hi there 👋
 
-<!--
-**vikrantdeveloper/vikrantdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Embedded Software developer, open-source enthusiastic.
+- 🌱 I'm always up for new challenges that inspire me to push myself out of my comfort zone
+- 👯 I'm love contributing to open source projects.
+- 🤔 If anyone willing to collaborate, looking for mentorship, they can reach out to me at vikrantthakur97@gmail.com.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀 :-
+Programming languages 
+Intermediate : Embedded C, C++, 
+Familiar: Bash-scripting, VHDL, python.
+
+MCU & processors  
+SoC, FPGA & 32-bit MCU : Espressif SoC chips, STM32F4xx,STM32F0xx, Xilinx FPGA spartan 6.
+OSHW: Arduino, Raspberry, Orange pi, 
+8- bit MCU : PIC & AVR.
+
+Toolchains & IDE 
+GCC arm Cortex,  ESP-IDF,  GCC AVR toolchain, Makefile.
+STM32IDE, Eclipse, VS Code. 
+
+Operating system 
+MCU : FreeRTOS 
+Raspberry Pi: Linux Kernel.
+
+Protocols 
+Hardware: UART, I2C, SPI, RS232, RS485, OSDP, 
+Transmission Control: TCP/IP, MQTT.
+Communication: BLE, Wi-Fi, NFC
+
+Hardware Debugging 
+Hardware: JTAG & SWD, 
+Software: Open GDB.
 -->
