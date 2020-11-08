@@ -7,7 +7,9 @@
 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀
 
 Programming languages
+
 Intermediate: Embedded C, C++, Python scripting
+
 Familiar: Bash scripting, VHDL.
 
 MCU & processors (SOC, 32-bit MCU & FPGA)
