@@ -13,9 +13,12 @@ Familiar: Bash scripting, VHDL.
 MCU & processors (SOC, 32-bit MCU & FPGA)
 Espressif SoC chips -> ESP32 wroom & wrover
 32 Bit Arm cortex M4 ,M7 series Controllers -> STM32F4xx, STM32F0xx
+
 FPGA : -> Xilinx FPGA spartan 6.
+
 OSHW:-> Arduino, Raspberry & Orange Pi, Adafruit ATSAMD21.
 8/16 Bit Microcontrollers
+
 Microchip :-> PIC16F887 & ATmega 328P.
 
 Toolchains & IDE
