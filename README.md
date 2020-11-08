@@ -41,5 +41,6 @@ Hardware tools
 Oscillscope , Multimeters , SMD components soldering , circuit analysis and designs
 
 Non Technical Skills
+
 Product Development , Market Research & Sales coordination. 
 
