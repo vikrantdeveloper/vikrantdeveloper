@@ -28,11 +28,11 @@ STM32IDE, Eclipse, VS Code.
 
 Operating system
 
-ESP32 , STM32Fxx: freeRTOS
-
-Raspberry & orange: Linux Kernel Driver Development, OS Internals.
+freeRTOS
+Linux Kernel Driver Development, OS Internals.
 
 Protocols
+
 Hardware: USART, RS232, RS485, OSDP, I2C, SPI, Modbus.
 
 Transmission Control: TCP/IP Stack, MQTT.
