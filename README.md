@@ -19,20 +19,26 @@ OSHW:-> Arduino, Raspberry & Orange Pi, Adafruit ATSAMD21.
 Microchip :-> PIC16F887 & ATmega 328P.
 
 Toolchains & IDE
+
 GCC arm Cortex, ESP-IDF toolchain, GCC AVR toolchain, Makefile, CMake.
 STM32IDE, Eclipse, VS Code.
 
 Operating system
+
 ESP32 , STM32Fxx: freeRTOS
+
 Raspberry & orange: Linux Kernel Driver Development, OS Internals.
 
 Protocols
 Hardware: USART, RS232, RS485, OSDP, I2C, SPI, Modbus.
+
 Transmission Control: TCP/IP Stack, MQTT.
+
 Communication Technologies: BLE, Wi-Fi, NFC
 
 Hardware Debugging
-Hardware: JTAG & SWD,
+
+Hardware: JTAG & SWD
 Software: Open GDB & OCD tools.
 
 Good Knowledge of the RISC V processors & Arm Architecture.
