@@ -8,9 +8,9 @@
 
 Programming languages
 
-Intermediate: Embedded C, C++, Python scripting
+Intermediate :-> Embedded C, C++, Python scripting
 
-Familiar: Bash scripting, VHDL.
+Familiar :-> Bash scripting, VHDL.
 
 MCU & processors (SOC, 32-bit MCU & FPGA)
 Espressif SoC chips -> ESP32 wroom & wrover
@@ -18,33 +18,28 @@ Espressif SoC chips -> ESP32 wroom & wrover
 
 FPGA : -> Xilinx FPGA spartan 6.
 
-OSHW:-> Arduino, Raspberry & Orange Pi, Adafruit ATSAMD21.
+OSHW:-> Arduino, Raspberry pi , Orange Pi, Adafruit ATSAMD21.
 8/16 Bit Microcontrollers
 
 Microchip :-> PIC16F887 & ATmega 328P.
 
-Toolchains & IDE
-
-GCC arm Cortex, ESP-IDF toolchain, GCC AVR toolchain, Makefile, CMake.
+Toolchains & IDE :-> GCC arm Cortex, ESP-IDF toolchain, GCC AVR toolchain, Makefile, CMake.
 STM32IDE, Eclipse, VS Code.
 
-Operating system
-
-freeRTOS
-Linux Kernel Driver Development, OS Internals.
+Operating system :-> freeRTOS, Linux Kernel Driver Development, OS Internals.
 
 Protocols
 
-Hardware: USART, RS232, RS485, OSDP, I2C, SPI, Modbus.
+Hardware :-> USART, RS232, RS485, OSDP, I2C, SPI, Modbus.
 
-Transmission Control: TCP/IP Stack, MQTT.
+Transmission Control :-> TCP/IP Stack, MQTT.
 
-Communication Technologies: BLE, Wi-Fi, NFC
+Communication Technologies :-> BLE, Wi-Fi, NFC
 
 Hardware Debugging
 
-Hardware: JTAG & SWD
-Software: Open GDB & OCD tools.
+Hardware :-> JTAG & SWD
+Software :-> Open GDB & OCD tools.
 
 Good Knowledge of the RISC V processors & Arm Architecture.
 
