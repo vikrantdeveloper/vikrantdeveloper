@@ -4,6 +4,23 @@
 -👯 I'm love contributing to open source projects.  
 -🤔 If anyone willing to collaborate, looking for mentorship, they can reach out to me at vikrantthakur97@gmail.com.
 
+
+**Technical Technologies Stack** - 
+
+Strong experience in Device Drivers - Low-level HAL Drivers.
+
+Strong experience working with embedded operating systems like FreeRTOS, Zypher RTOS, etc.
+
+Exposure to embedded Linux driver development 
+
+Strong Experience in Firmware Development for ARM-Based MCU Architectures & SoC Chipsets
+
+Development of device drivers for various Industrial grade sensors  &  MCU peripherals.
+
+Firmware development for communication protocols like TCP/IP(MQTT), WiFi, and BLE(5.0).
+
+Experience with Hardware Designing, Validation, circuit debugging & analysis.
+
 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀
 
 Programming languages
